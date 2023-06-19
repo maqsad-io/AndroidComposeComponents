@@ -14,7 +14,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             MaqsadTheme {
-                Greeting("Android")
+                Greeting("Android Studio")
             }
         }
     }
